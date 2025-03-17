@@ -13,5 +13,5 @@ https://huggingface.co/spaces/Tulika2000/SheGuard-AI
 - Python for backend logic and integrations
 - HTML for rendering video links
 
-For more insights, read the full article below: 
+For more insights, read the full article here: 
 https://app.readytensor.ai/publications/sheguard-an-ai-powered-personal-safety-advisor-for-women-of-all-ages-nIHwyQJQ7bIR
