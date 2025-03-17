@@ -4,7 +4,7 @@ SheGuard is an AI-powered personal safety advisor created to offer customized sa
 # Link to the tool: 
 https://huggingface.co/spaces/Tulika2000/SheGuard-AI
 
-# Technologies and Tools Used
+# Key Technologies Used
 - Groq API for llama model responses
 - LangChain for LLM integration
 - YouTube API for youtube videos
