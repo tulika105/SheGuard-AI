@@ -14,6 +14,9 @@ https://huggingface.co/spaces/Tulika2000/SheGuard-AI
 - Hugging Face Spaces for deployment
 - Python for backend logic and integrations
 - HTML for rendering video links
+- Incorporated user feedback via Google Forms to improve the accuracy and relevance of SheGuard-AI
+
+  <img width="1848" height="1028" alt="Screenshot 2025-09-15 163800" src="https://github.com/user-attachments/assets/6f32b69d-15b4-44f7-a587-c58d18d34cdd" />
 
 For more insights, read the full article here: 
 https://app.readytensor.ai/publications/sheguard-an-ai-powered-personal-safety-advisor-for-women-of-all-ages-nIHwyQJQ7bIR
